@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "input_documents": [
+      "IEEE_Conference_Template(2)[1].pdf",
+      "67c2a7297c52c_IIT_Delhi_-_Problem_Statement__1_.pdf",
+      "Problem Statement - AceHack 4.pdf",
+      "Problem_statement_adobe.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "timestamp": "2025-07-21 12:04:18"
+  },
+  "extracted_sections": [
+    {
+      "document": "Problem_statement_adobe.pdf",
+      "page_number": 7,
+      "section_title": "\u2022 Persona: PhD Researcher in Computational Biology...",
+      "importance_rank": 1
+    },
+    {
+      "document": "Problem_statement_adobe.pdf",
+      "page_number": 7,
+      "section_title": "methodologies, datasets, and performance benchmarks\"...",
+      "importance_rank": 2
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 4,
+      "section_title": "above all others in terms of accuracy and running time; it...",
+      "importance_rank": 3
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 5,
+      "section_title": "Datasets, and Challenges.https://ieeexplore.ieee.org/documen...",
+      "importance_rank": 4
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 4,
+      "section_title": "Table 1. Model Performance Results...",
+      "importance_rank": 5
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 2,
+      "section_title": "algorithms for minimal latency. Thus, YOLOv8 processing...",
+      "importance_rank": 6
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 2,
+      "section_title": "ML-injected approaches greatly improves both accuracy and...",
+      "importance_rank": 7
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 1,
+      "section_title": "Faster RCNN. These models are highly popular because of...",
+      "importance_rank": 8
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 4,
+      "section_title": "like YOLOv8, Faster RCNN, and YOLOv5.The accuracy...",
+      "importance_rank": 9
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 1,
+      "section_title": "much more accessible. Using deep learning with PyTorch, the...",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Problem_statement_adobe.pdf",
+      "page_number": 7,
+      "refined_text": "\u2022 Persona: PhD Researcher in Computational Biology"
+    },
+    {
+      "document": "Problem_statement_adobe.pdf",
+      "page_number": 7,
+      "refined_text": "methodologies, datasets, and performance benchmarks\""
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 4,
+      "refined_text": "above all others in terms of accuracy and running time; it"
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 5,
+      "refined_text": "Datasets, and Challenges.https://ieeexplore.ieee.org/document/10526274"
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 4,
+      "refined_text": "Table 1. Model Performance Results"
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 2,
+      "refined_text": "algorithms for minimal latency. Thus, YOLOv8 processing"
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 2,
+      "refined_text": "ML-injected approaches greatly improves both accuracy and"
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 1,
+      "refined_text": "Faster RCNN. These models are highly popular because of"
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 4,
+      "refined_text": "like YOLOv8, Faster RCNN, and YOLOv5.The accuracy"
+    },
+    {
+      "document": "IEEE_Conference_Template(2)[1].pdf",
+      "page_number": 1,
+      "refined_text": "much more accessible. Using deep learning with PyTorch, the"
+    }
+  ]
+}
